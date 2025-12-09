@@ -1,43 +1,36 @@
 # 👋 Hi, I'm Bisway Singha
 
-### 🚀 Software Engineer | Full-Stack Developer | Android & Backend Engineer
+### 🚀 Software Engineer | Full-Stack Developer | Backend Engineer
 
-Passionate about building scalable backend systems, modern mobile apps, and user-centric digital products.  
-I love working with Java, Spring Boot, React Native, TypeScript, and cloud platforms.
+Passionate about building scalable backend systems and user-centric digital products.  
+I love working with Java, Spring Boot, JavaScript and cloud platforms.
 
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Java, TypeScript, JavaScript, SQL  
-**Backend:** Spring Boot, REST APIs, JWT Auth, OAuth2, Redis, PostgreSQL  
-**Mobile:** React Native (Android + iOS)  
-**Database:** MongoDB, Firebase, MySQL  
-**DevOps:** Docker, GitHub Actions, CI/CD, Railway, Render  
-**Tools:** Postman, IntelliJ, VSCode, Android Studio  
+**Languages:** Java, JavaScript, SQL  
+**Backend:** Spring Boot, REST APIs, JWT Auth, OAuth2, Redis    
+**Database:** MongoDB, Firebase, MySQL, PostgreSQL    
+**Tools:** Postman, IntelliJ, VSCode, GitHub Actions, CI/CD, Railway, Render 
 
 ---
 
 ## 📌 Featured Projects
-### 🚀 Premier Zone (Premier League App)
-- Spring Boot + React frontend  
+### 🚀 Premier League 
+- Spring Boot  
 - OAuth2, JWT, Redis caching, rate limiting  
-- Player stats, schedule, authentication  
-
-### 🎓 Campus Guide (Final Year Project)
-- React Native + TypeScript + Firebase  
-- College feed, posts, comments, events, clubs  
-- Real-time updates  
+- Player stats, schedule, authentication, email    
 
 ### 🛒 Eurocloth E-commerce
-- Spring Boot backend  
-- Java 21 + PostgreSQL + Redis caching  
+- HTML, CSS, JavaScript frontend 
+- Firebase authentication, store, storage hosting   
 
 ---
 
 ## 📫 Let's Connect  
 📧 Email: singhabis190@gmail.com  
-🔗 LinkedIn: linkedin.com/in/bisway-singha  
-🌐 Portfolio: portfolio-bisway.vercel.app
+🔗 LinkedIn: [linkedin.com/in/bisway-singha](url)  
+🌐 Portfolio: [portfolio-bisway.vercel.app](url)
 
 ---
 ⭐ **I’m always open to remote opportunities and collaboration!**
